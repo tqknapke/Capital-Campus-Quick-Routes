@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Capital Campus Quick Routes</string>
+    <string-array name="locations">
+        <item>Alumni House</item>
+        <item>Battelle Hall</item>
+        <item>Bernlohr Stadium</item>
+        <item>Blackmore Library</item>
+        <item>Capital Center (Field House)</item>
+        <item>College Avenue Residence Hall</item>
+        <item>Conservatory of Music</item>
+        <item>Convergent Media Center</item>
+        <item>Cotterman Hall</item>
+        <item>Harry C. Moores Student Union</item>
+        <item>Health and Wellness Center</item>
+        <item>Honors House</item>
+        <item>Huber Spielman Hall</item>
+        <item>Kerns Religious Life Center</item>
+        <item>Lohman Complex</item>
+        <item>Mees Auditorium</item>
+        <item>Memorial Gate</item>
+        <item>Public Safety</item>
+        <item>Renner Hall</item>
+        <item>Ruff Learning Center</item>
+        <item>Saylor Ackerman Hall</item>
+        <item>Schaaf Hall</item>
+        <item>Schenk Hall (Trinity Suites)</item>
+        <item>Trinity Lutheran Seminary</item>
+        <item>Troutman Hall</item>
+        <item>Yochum Hall</item>
+        <item>F1 Lot</item>
+        <item>F3 Lot</item>
+        <item>F4 Lot</item>
+        <item>F5 Lot</item>
+        <item>F6 Lot</item>
+        <item>F7 Lot</item>
+        <item>S1 Lot</item>
+        <item>S2 Lot</item>
+        <item>S3 Lot</item>
+        <item>S4 Lot</item>
+        <item>S5 Lot</item>
+        <item>S6 Lot</item>
+        <item>S7 Lot</item>
+        <item>S8 Lot</item>
+    </string-array>
+</resources>
